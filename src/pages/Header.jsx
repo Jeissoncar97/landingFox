@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import LogoDesktop from './images/LogoDesktop.svg';
+import LogoDesktop from '../assets/LogoDesktop.svg';
 import Navbar from './Navbar';
 
 
