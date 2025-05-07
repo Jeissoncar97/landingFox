@@ -1,0 +1,73 @@
+
+@import "tailwindcss";
+@theme {
+  --color-primary: #cd0000;
+  --color-primary-claro: #cd00003d;
+  --color-tahiti: #3ab7bf;
+  --color-bermuda: #78dcca;
+  --color-dorado: #ffd700;
+  --color-anchor: #006fbb;
+  --font-sans:'MrEavesXLModNarOT2', sistem-ui;
+  --font-cursiva: 'Script';
+  --font-helvetica: 'Helvetica';
+  --font-system: 'system-ui';
+  --font-georgia: 'Georgia';
+  --font-permanentMarker: 'permanentMarker';
+}
+@font-face {
+  font-family: 'permanentMarker';
+  src: url('./assets/fonts/PermanentMarker-Regular.woff2') format('woff2'),
+      url('./assets/fonts/PermanentMarker-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Script';
+  src: url('./assets/fonts/Script-.woff2') format('woff2'),
+      url('./assets/fonts/Script-.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'MrEavesXLModNarOT1';
+  src: url('./assets/fonts/MrEavesXLModNarOT-Bold.woff2') format('woff2'),
+      url('./assets/fonts/MrEavesXLModNarOT-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MrEavesXLModNarOT2';
+  src: url('./assets/fonts/MrEavesXLModNarOT-Heavy.woff2') format('woff2'),
+      url('./assets/fonts/MrEavesXLModNarOT-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MrEavesXLModNarOT-Reg';
+  src: url('./assets/fonts/MrEavesXLModNarOT-Reg.woff2') format('woff2'),
+      url('./assets/fonts/MrEavesXLModNarOT-Reg.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MrEavesXLModNarOT-Book';
+  src: url('./assets/fonts/MrEavesXLModNarOT-Book.woff2') format('woff2'),
+      url('./assets/fonts/MrEavesXLModNarOT-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+body{
+  box-sizing: border-box;
+}
+
