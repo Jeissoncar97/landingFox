@@ -8,7 +8,6 @@ import ImgHome1 from '../assets/images/imgHome1.png'
 import ImgHome2 from '../assets/images/imgHome2.png'
 import ImgHome3 from '../assets/images/imgHome3.png'
 import ImgHome4 from '../assets/images/imgHome4.png'
-import BgBanner from '../assets/images/bgBanner.png'
 function Home() {
   return (
     <div className="text-center p-8">
