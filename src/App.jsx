@@ -1,4 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import ScrolToTop from './components/ScrollToTop';
+import WhatsAppButton from './components/WhatsAppButton';
 import Termycon from './pages/Termycon'
 import Politicas from './pages/Politicas'
 import Header from './pages/Header';
@@ -25,6 +27,8 @@ function App() {
     <BrowserRouter class>
       <div className='box-border bg-[url(./assets/images/bg.jpg)] bg-cover bg-no-repeat bg-center'>
         <Header />
+        <ScrolToTop />
+        <WhatsAppButton />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
