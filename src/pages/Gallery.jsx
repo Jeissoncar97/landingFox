@@ -3,19 +3,19 @@ import Lightbox from 'yet-another-react-lightbox';
 import 'yet-another-react-lightbox/styles.css';
 import Thumbnails from 'yet-another-react-lightbox/plugins/thumbnails';
 import 'yet-another-react-lightbox/plugins/thumbnails.css';
-import Img1 from '../assets/images/images-gallery/img1.jpeg'
-import Img2 from '../assets/images/images-gallery/img2.jpeg'
-import Img3 from '../assets/images/images-gallery/img3.jpeg'
-import Img4 from '../assets/images/images-gallery/img4.jpeg'
-import Img5 from '../assets/images/images-gallery/img5.jpeg'
-import Img6 from '../assets/images/images-gallery/img6.jpeg'
-import Img7 from '../assets/images/images-gallery/img7.jpeg'
-import Img8 from '../assets/images/images-gallery/img8.jpeg'
-import Img9 from '../assets/images/images-gallery/img9.jpeg'
-import Img10 from '../assets/images/images-gallery/img10.jpeg'
-import Img11 from '../assets/images/images-gallery/img11.jpeg'
-import Img12 from '../assets/images/images-gallery/img12.jpeg'
-import Img13 from '../assets/images/images-gallery/img13.jpeg'
+import Img1 from '../assets/images/images-gallery/img1.webp'
+import Img2 from '../assets/images/images-gallery/img2.webp'
+import Img3 from '../assets/images/images-gallery/img3.webp'
+import Img4 from '../assets/images/images-gallery/img4.webp'
+import Img5 from '../assets/images/images-gallery/img5.webp'
+import Img6 from '../assets/images/images-gallery/img6.webp'
+import Img7 from '../assets/images/images-gallery/img7.webp'
+import Img8 from '../assets/images/images-gallery/img8.webp'
+import Img9 from '../assets/images/images-gallery/img9.webp'
+import Img10 from '../assets/images/images-gallery/img10.webp'
+import Img11 from '../assets/images/images-gallery/img11.webp'
+import Img12 from '../assets/images/images-gallery/img12.webp'
+import Img13 from '../assets/images/images-gallery/img13.webp'
 
 function Gallery() {
   const images = [Img1,Img2, Img3, Img4, Img5, Img6, Img7, Img8, Img9, Img10, Img11, Img12, Img13];

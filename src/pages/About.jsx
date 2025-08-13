@@ -21,7 +21,7 @@ function About() {
             <img className='w-sm m-auto py-10' src={Platos} alt="Platos Fox pizza" title='Platos Fox pizza' />
             <p>Te invitamos a conocernos, a probar algo nuevo, o a reencontrarte con tu sabor favorito. <strong>Bienvenido a Fox Pizza Gourmet y Más.</strong></p>
           </div>
-          <article className=' h-auto bg-primary-claro text-black p-6 m-4 rounded-xl shadow-xl flex flex-col gap-6 h-fit'>
+          <article className=' bg-primary-claro text-black p-6 m-4 rounded-xl shadow-xl flex flex-col gap-6 h-fit'>
             <section>
               <h2 className='text-2xl font-bold mb-2'>¿Qué nos hace únicos?</h2>
               <ul className='list-disc list-inside'>
