@@ -52,7 +52,7 @@ function Home() {
           </div>
           <div className='content-center text-white content-center w-full px-3 mb-10 md:mb-0'>
             <h3 className='text-3xl text-dorado'>DESDE</h3>
-            <h1 className='text-5xl'>$14.500</h1>
+            <h1 className='text-5xl'>$17.000</h1>
             <p className='text-xl text-black text-black'>exclusivas</p>
             <h3 className='text-3xl text-dorado'>PIZZA DULCES</h3>
             <p className='text-2xl'>Escoge tus sabores favoritos</p>
@@ -72,11 +72,11 @@ function Home() {
             <div className='flex justify-around mt-4'>
               <div>
                 <p className='text-2xl'>Sencillo</p>
-                <p className='text-black text-2xl'>$15.500</p>
+                <p className='text-black text-2xl'>$19.500</p>
               </div>
               <div>
                 <p className='text-2xl'>Especial (doble carne)</p>
-                <p className='text-black text-2xl'>$19.000</p>
+                <p className='text-black text-2xl'>$22.500</p>
               </div>
             </div>
             <div className="text-center mt-6">
