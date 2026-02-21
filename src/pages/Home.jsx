@@ -36,7 +36,7 @@ function Home() {
             <img src={Img5} alt="" className='md:max-w-lg drop-shadow-lg m-8' style={{ filter: 'drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.8))' }} />
           </div>
           <div className='content-center text-white content-center w-full px-3 mb-10 md:mb-0'>
-            <h1 className='text-5xl'>$53.000</h1>
+            <h1 className='text-5xl'>$60.000</h1>
             <p className='text-xl text-black text-black'>exclusiva</p>
             <h3 className='text-3xl text-dorado'>PIZZA CUATRO SABORES</h3>
             <p className='text-2xl'>Escoge tus sabores favoritos</p>

@@ -7,7 +7,7 @@ function Category({ category, image, linkTo }) {
       to={linkTo}
       className="text-center m-2 hover:scale-105 transition-all duration-600"
     >
-      <img src={image} alt={category} />
+      <img src={image} alt={category} loading='lazy' />
     </Link>
   );
 }
